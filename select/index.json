@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "哀色あいろにい",
+  "base_artist": "酔シグレ",
+  "createdAt": "2026-02-07T07:29:14.758711Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "哀色あいろにい (feat. わかばやし)",
+      "artist": "酔シグレ",
+      "has_synced": false,
+      "path": "select/pl_01_哀色あいろにい_(feat._わかばやし)_酔シグレ.txt"
+    }
+  ]
+}
